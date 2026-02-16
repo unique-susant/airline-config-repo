@@ -1,8 +1,5 @@
 server:
   port: 8081
 
-spring:
-  application:
-    name: reservation-service
-
-message: Hello from Config Server 🚀
+airline:
+  message: Welcome to Airline Reservation Service
